@@ -1,18 +1,12 @@
 # Ignore the tasks folder 
 tasks/
 
-# Ignore MATLAB backup files
-*.asv
-
 # Ignore data files
 *.mat
 
-# Ignore OS-specific files
-.DS_Store
-Thumbs.db
+# Ignore png files
+*.png
 
-# Ignore editor-specific files
-*.swp
+# Ignore vscode configuration folder
+.vscode/
 
-# Ignore compiled files
-*.mex*
