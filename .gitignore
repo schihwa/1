@@ -1,5 +1,5 @@
-# Ignore the tasks folder at the root of the repository
-/tasks/
+# Ignore the tasks folder 
+tasks/
 
 # Ignore MATLAB backup files
 *.asv
